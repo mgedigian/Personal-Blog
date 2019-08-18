@@ -118,3 +118,11 @@ task :list do
   puts "Tasks: #{(Rake::Task.tasks - [Rake::Task[:list]]).join(', ')}"
   puts "(type rake -T for more detail)\n\n"
 end
+
+
+# usage rake build
+desc 'build'
+task :build do
+  system 'rm -rf .asset-cache _site'
+  system 'JEKYLL_ENV=production bundle exec jekyll build'
+end
