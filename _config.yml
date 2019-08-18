@@ -9,7 +9,7 @@ url:         "https://www.edward-huang.com"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.html
- - topic.html
+#  - topic.html
 
 # Google services
 # google_verification:
