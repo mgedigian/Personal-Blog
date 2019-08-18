@@ -84,7 +84,6 @@ plugins:
   - jekyll-paginate
   - jekyll-assets
   - jekyll-sitemap
-  - jekyll/tagging
 # https://github.com/jekyll/jekyll/issues/2938
 exclude:
   - Gemfile
