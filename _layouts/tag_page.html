@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<ul>
+    {% for post in page.posts %}
+    <li><a href="{{ post.url }}" class="post-summary">{{ post.title }}</a> <span class="post-summary">({{ post.date | date_to_string }} | Tags: {{ post | tags }})</span></li>
+    {% endfor %}
+</ul>
+
+{% comment %}
+<div id="tag-cloud">
+    {{ site | tag_cloud }}
+</div>
+{% endcomment %}

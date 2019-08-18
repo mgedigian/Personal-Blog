@@ -1,0 +1,37 @@
+.tag-cloud {
+  
+  line-height: $h1;
+  text-align: center;
+
+  a {
+    margin: 0 $tiny-gap;
+    vertical-align: middle;
+  }
+
+  .set-1 {
+    font-size: $small-font-size;
+  }
+
+  .set-2 {
+    font-size: $h5;
+  }
+
+  .set-3 {
+    font-weight: 400;
+    font-size: $h4;
+  }
+
+  .set-4 {
+    font-weight: 400;
+    font-size: $h3;
+  }
+
+  .set-5 {
+    font-weight: 400;
+    font-size: $h2;
+  }
+}
+
+.tag-header {
+  text-align: center;
+}

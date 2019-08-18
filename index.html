@@ -1,0 +1,12 @@
+---
+layout: default
+---
+{% comment %}
+  site.post is the retrieve the reverse chronological of all the post (nothing to do with _config.yml file)
+  Passing the variable inside include posts.html (and posts.html get the posts variable from include.posts)
+  example : {% include posts.html posts = site.posts %}
+
+  Since there is pagination the above will just show the value
+{% endcomment %}
+
+{% include posts.html %}

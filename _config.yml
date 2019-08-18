@@ -1,0 +1,103 @@
+# Site settings
+title:       Edward Huang
+name:        edward-huang.com
+email:       edwardgunawan880@gmail.com
+author:      Edward Huang
+description: "Welcome to Edward Huang's Personal Website."
+baseurl:     ""
+url:         "https://www.edward-huang.com"
+date_format: "%b %-d, %Y"
+header_pages:
+ - about.html
+ - topic.html
+
+# Google services
+# google_verification:
+# Use either direct GA implementation or set up GTM account
+# - using both will skew your data (leave blank to not use at all)
+google_analytics: UA-113368564-1
+# google_tag_manager:
+
+# Optional features
+animated:             true
+show_social_icons:    true
+ajaxify_contact_form: false
+enable_mathjax: false
+enable_anchorjs: false
+# Preview image for social media aka og:image and twitter:image
+post_preview_image: true
+
+
+# Disqus post comments
+# (leave blank to disable Disqus)
+disqus_shortname:
+
+# Social icons
+github_username: edwardGunawan
+stackoverflow_id:
+linkedin_username: edward-huang
+angellist_username:
+medium_id: edwardgunawan880
+
+# Post sharing icons
+show_sharing_icons: false
+# Change to 'true' to enable individual icons
+share_facebook: false
+share_twitter: false
+share_linkedin: false
+share_reddit: false
+share_hackernews: true
+
+text:
+  pagination:
+    newer: 'Newer'
+    older: 'Older'
+  share_buttons:
+    text:         'Share this post!'
+    facebook:     'Share on Facebook'
+    twitter:      'Share on Twitter'
+    linkedin:     'Share on LinkedIn'
+    reddit:       'Share on Reddit'
+    hackernews:   'Share on Hacker News'
+  post:
+    minute_read:    'minute read'
+    related_posts:  'Related Posts'
+  index:
+    coming_soon: 'Coming soon...'
+  og_locale: 'en_US'
+
+# cloud tag plugin
+tag_page_layout: tag_page
+tag_page_dir: tag
+
+  
+# Build settings
+markdown:     kramdown
+redcarpet:
+  extensions: ['smart', 'tables', 'with_toc_data']
+permalink:  pretty
+paginate: 4
+sass:
+  style: compressed
+  sass_dir: _sass
+plugins:
+  - jekyll-paginate
+  - jekyll-assets
+  - jekyll-sitemap
+# https://github.com/jekyll/jekyll/issues/2938
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - Rakefile
+  - README.md
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - "README.md"
+  - "build"
+
+keepfiles:
+  - "CNAME"
+  - ".git"
+  - ".gitignore"
