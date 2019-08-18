@@ -30,7 +30,7 @@
     <link rel="alternate" type="application/rss+xml" title="RSS Feed for {{ site.title }}" href="{{ "/feed.xml" | relative_url }}" />
 
     <!-- Custom CSS -->
-    <link rel="stylesheet" href="{{ "/css/style.css" | relative_url }}?{{ site.time | date: "%Y%m%d%H%M" }}" type="text/css">
+    <link rel="stylesheet" href="{{ "/css/style.css" | prepend: site.baseurl }}?{{ site.time | date: "%Y%m%d%H%M" }}" type="text/css">
 
     <!-- Fonts -->
     <link href='https://fonts.googleapis.com/css?family=Roboto+Mono:400,700' rel='stylesheet' type='text/css'>
@@ -71,6 +71,15 @@
     <!-- set expiration date on cache -->
     <meta http-equiv="Cache-Control" content="max-age=2350000" />
     <meta http-equiv="expires" content="mon, April 27 2020 1:00:00 GMT" />
+
+
+    <!-- Icons -->
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ "/apple-touch-icon.png" | relative_url }}">
+    <link rel="icon" type="image/png" href="{{ "/favicon-96x96.png" | relative_url }}" sizes="96x96">
+    <link rel="icon" type="image/png" href="{{ "/favicon-16x16.png" | relative_url }}" sizes="16x16">
+    <link rel="icon" type="image/png" href="{{ "/favicon-32x32.png" | relative_url }}" sizes="32x32">
+    <link rel="shortcut icon" href="{{ "/favicon.ico" | relative_url }}">
+    <link rel="manifest" href="{{ "/site.webmanifest" | relative_url }}">
 
     {% if site.google_analytics %}
     <script type="text/javascript">
