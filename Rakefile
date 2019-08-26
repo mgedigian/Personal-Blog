@@ -20,6 +20,7 @@ task :post, :title do |t, args|
     title: #{title}
     date: #{Time.new.strftime('%Y-%m-%d %H:%M')}
     categories:
+    tags:
     ---
 
     EOS
@@ -53,6 +54,7 @@ task :draft, :title do |t, args|
     title: #{title}
     date: #{Time.new.strftime('%Y-%m-%d %H:%M')}
     categories:
+    tags:
     ---
 
     EOS
@@ -63,7 +65,7 @@ task :draft, :title do |t, args|
 end
 
 
-
+# usage: rake preview
 desc 'preview the site with drafts'
 task :preview do
   puts "## Generating site"
