@@ -67,8 +67,8 @@ text:
   og_locale: 'en_US'
 
 # cloud tag plugin
-tag_page_layout: tag_page
-tag_page_dir: tag
+# tag_page_layout: tag_page
+# tag_page_dir: tag
 
   
 # Build settings
@@ -84,7 +84,7 @@ plugins:
   - jekyll-paginate
   - jekyll-assets
   - jekyll-sitemap
-  - jekyll/tagging
+  # - jekyll/tagging
 # https://github.com/jekyll/jekyll/issues/2938
 exclude:
   - Gemfile

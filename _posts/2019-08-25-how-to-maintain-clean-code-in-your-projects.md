@@ -4,7 +4,7 @@ title: How to Maintain Clean Code in your projects
 date: 2019-08-25 23:16
 summary: Software development process is more than you think. Creating readable maintainable code is paramount to create great coding culture.
 categories: software-best-practice tech software-development
-tags: teamwork best-practice software-development
+tags: teamwork best-practice software-development tech
 ---
 
 There are a lot of rules about software development process in tech companies, and each of them have was developed to solve a problem to create maintainable, robust system. When you develop a solo home project, you usually have two steps: write code and push code using some sort of version control like git. However, developing  features with other developers in a large code base will be hard to manage, and create technical debt. Technical debt is like a credit card debt, the longer you ignore it the worse it is down the road. It will decrease developer productivity, and decrease job satisfaction. Therefore, each company ***NEEDS*** to have rules of maintaining clean code when they onboard engineers. The process of clean code can be divided into these 5 major steps:

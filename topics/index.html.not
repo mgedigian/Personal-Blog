@@ -1,8 +1,0 @@
----
-# layout: default
-# title: Topics
----
-
-<div class="tag-cloud">
-  {{ site | tag_cloud }}
-</div>

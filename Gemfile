@@ -9,5 +9,5 @@ group :jekyll_plugins do
   gem 'jekyll-assets'
   gem 'sass' # add only if you're using sass for your stylesheets
   gem 'uglifier' # add only if you want to compress your js files
-  gem 'jekyll-tagging'
+  # gem 'jekyll-tagging'
 end
