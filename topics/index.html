@@ -1,0 +1,19 @@
+---
+layout: default
+title: Topics
+---
+
+{% assign tags = site.tags | sort %}
+<div id="tag-cloud">
+{% for tag in tags %}
+  <a href="/tag/{{tag | first | slugify}}/" style="font-size: {{ tag | last | size  |  times: 4 | plus: 80  }}%">{{ tag[0] | replace:'-', ' ' }} ({{ tag | last | size }})</a>
+{% endfor %}
+</div>
+
+
+{% comment %}
+This works if you use jekyll tag-cloud but github page didn't have this pluging supported
+<div class="tag-cloud">
+  {{ site | tag_cloud }}
+</div>
+{% endcomment %}
