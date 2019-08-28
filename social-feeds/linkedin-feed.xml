@@ -1,0 +1,6 @@
+---
+layout: social-feed 
+title: LinkedIn
+# Shout out to : https://github.com/eduardoboucas/jekyll-social/blob/master/social-feeds/linkedin.xml
+# now in your post you just need to have a share field to share it to linkedin
+---
