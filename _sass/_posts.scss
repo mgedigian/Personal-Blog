@@ -28,6 +28,10 @@
   color: #333;
 }
 
+.post-title {
+  font-size: $h2;
+}
+
 .post-footer {
   @extend .italic;
 
