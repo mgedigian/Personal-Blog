@@ -7,9 +7,10 @@ description: "Welcome to Edward Huang's Personal Website."
 baseurl:     ""
 url:         "https://www.edward-huang.com"
 date_format: "%b %-d, %Y"
-header_pages:
- - about.html
+# header_pages:
+#  - about.html
 #  - topic.html
+#  - subscribe.html
 
 # Google services
 # google_verification:
