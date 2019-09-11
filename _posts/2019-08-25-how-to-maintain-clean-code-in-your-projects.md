@@ -6,7 +6,7 @@ summary: Software development process is more than you think. Creating readable 
 categories: software-best-practice tech software-development
 tags: teamwork best-practice software-development tech
 ---
-
+![Photo by Campaign Creators](https://images.unsplash.com/photo-1542744094-24638eff58bb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1351&q=80)
 There are a lot of rules about software development process in tech companies, and each of them have was developed to solve a problem to create maintainable, robust system. When you develop a solo home project, you usually have two steps: write code and push code using some sort of version control like git. However, developing  features with other developers in a large code base will be hard to manage, and create technical debt. Technical debt is like a credit card debt, the longer you ignore it the worse it is down the road. It will decrease developer productivity, and decrease job satisfaction. Therefore, each company ***NEEDS*** to have rules of maintaining clean code when they onboard engineers. The process of clean code can be divided into these 5 major steps:
 
 > Define Rules -> Write Code -> Use Static Code Checker -> Code Review -> Merge
@@ -36,6 +36,7 @@ Sometimes the code that you need to refactor might be more than the time that yo
 Using this rule, small changes will add up, and will create better readable code for future maintainers for bug fixes, or add new features.
 
 ## Code Review
+![Photo by NESA by Makers](https://images.unsplash.com/photo-1531498860502-7c67cf02f657?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80)
 There are a lot of ways to do code review, and each company has different rules in how they conduct code review. This process is the general process that I see majority of the company have on code review.
 
 The importance and benefit of code review, to name a few, can increase code quality, create positive effect on the team culture, and recognition on code expertise through peers is a source of pride for many programmers.

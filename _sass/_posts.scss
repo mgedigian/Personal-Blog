@@ -59,3 +59,17 @@
 .related-post-title {
   border-bottom: thin solid #f3f3f3;
 }
+
+.post-content {
+a {
+  color: $link-color;
+  text-decoration: underline;
+  text-transform: unset;
+}
+
+a:hover {
+  color: $link-hover-color;
+}
+
+}
+
