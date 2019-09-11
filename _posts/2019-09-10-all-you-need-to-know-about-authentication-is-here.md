@@ -1,7 +1,7 @@
 ---
 layout: post
 title: All you need to know about Authentication is here
-date: 2019-09-10 09:24
+date: 2019-09-10 21:56
 summary: There are a lot of choice to implement authentication, but understanding how it works can help you implement them properly.
 categories: authentication tech
 tags: software-development tech authentication
