@@ -31,13 +31,13 @@ post_preview_image: true
 
 # Disqus post comments
 # (leave blank to disable Disqus)
-disqus_shortname:
+disqus_shortname: https-edward-huang-com
 
 # Social icons
 github_username: edwardGunawan
 stackoverflow_id:
 linkedin_username: edward-huang
-angellist_username:
+angellist_username: edward-huang-3
 medium_id: edwardgunawan880
 
 # Post sharing icons
@@ -45,8 +45,8 @@ show_sharing_icons: false
 # Change to 'true' to enable individual icons
 share_facebook: false
 share_twitter: false
-share_linkedin: false
-share_reddit: false
+share_linkedin: true
+share_reddit: true
 share_hackernews: true
 
 text:
