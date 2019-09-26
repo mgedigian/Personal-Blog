@@ -24,6 +24,14 @@ layout: default
   {{ content }}
 </article>
 
+<article class ="post-content">
+  <h3>Like this Article?</h3>
+  <p>Sign up for my newsletter to get this content weekly!</p>
+  {% include subscribe.html %}
+  <br>
+</article>
+
+
 {% if site.show_sharing_icons %}
   {% include share_buttons.html %}
 {% endif %}
