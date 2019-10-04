@@ -2,7 +2,7 @@
 layout: post
 title: 3 Ways to Make your Life Better By Living Off-peak
 date: 2019-10-04 18:45
-summary: A peak life is live off-peak
+summary: A peak life is live off-peak...
 categories: life-lesson optimization
 tags: optmization productivity life-lesson
 ---
@@ -17,7 +17,7 @@ I tried to experience how hectic it is to shop during Black Friday. I waited in 
 
 From that day, I learn one fundamental principle about waiting in lines – all waiting in lines and queues, and other sardines like collections of individuals should be view as a squinty eye of skepticism. If many people simultaneously decided to waste their time by waiting in line to do something, there is a high chance that it is something not worth doing.
  
-But you might argue that some things are worth lining up for. For instance, thousands of people around the world are going to Iceland to see the northern lights. Northern lights usually appear much more often during the winter season. Therefore, we only can travel to see the views of the north during peak season. The truth is – northern lights can be seen for a full 8 months, starting from August (Link). You can also go to see the views of the north during the summer seasons. The travel industry just wants to keep that secret from you so you can pay a higher price and squeeze together with other humans to see it.
+But you might argue that some things are worth lining up for. For instance, thousands of people around the world are going to Iceland to see the northern lights. Northern lights usually appear much more often during the winter season. Therefore, we only can travel to see the views of the north during peak season. The truth is – northern lights can be seen for a full 8 months, starting from [August](https://www.cnn.com/travel/article/off-season-travel-avoid-crowds/index.html). You can also go to see the views of the north during the summer seasons. The travel industry just wants to keep that secret from you so you can pay a higher price and squeeze together with other humans to see it.
  
 These all go to the power of marketing. Marketing causes crowds of people to sleep on a sidewalk and stand for hours in line to drop a hundred dollars, just to buy that Apple product. Marketing creates masses of people to want to go to a Black Friday Sales because it gives them good deals. Marketing creates crowds of fans to love Taylor Swift so they can go to her concert tour.
  
@@ -48,13 +48,13 @@ I feel everything runs slower on Monday. Most importantly, most people GO to wor
 ## 2. Go to the gym during the middle of the day
 Early and night workout tends to get all the glory - from sunrise selfie to midnight run. 
 
-We often hear a lot of stories on how regarding how great you will feel from working out in the morning. Numerous articles(link) have shown that working out in the morning benefits your life and productivity - gives you more energy during the day. Most people work out at night because those are the time after work hours. 
+We often hear a lot of stories on how regarding how great you will feel from working out in the morning. Numerous [articles](https://www.self.com/story/3-reasons-why-working-out-at-night-will-help-you-tone-up-faster) have shown that working out in the morning benefits your life and productivity - gives you more energy during the day. Most people work out at night because those are the time after work hours. 
 
 However, there is a short break during the day that you can incorporate your workout to be more productive in the afternoon. By working out during the day, you don't have to get in line for the bench press, or squat rack because most people are working. 
 
 Working out at the mid-day also helps you boost your energy and help you stay awake in the afternoon. 
 
-Lunch break usually runs one or one and a half-hour. There is plenty of time to take those hours to go workout and eat lunch after. Studies(link) shows that the optimal time for weight training to be 45-60 minutes, while cardio is approximately 30 minutes. By working out during the day, you can avoid peak times and helps boost productivity in the afternoon.
+Lunch break usually runs one or one and a half-hour. There is plenty of time to take those hours to go workout and eat lunch after. [Studies](https://www.hyperwear.com/blog/workout-length/) shows that the optimal time for weight training to be 45-60 minutes, while cardio is approximately 30 minutes. By working out during the day, you can avoid peak times and helps boost productivity in the afternoon.
  
  
 ## 3. Traveling on an off-season
@@ -69,3 +69,8 @@ If you have to go during peak times, choose your itinerary on the day of the cel
 By doing this, you can get a better deal while also enjoy the same travel luxury as peak-season.
 
 Off-peak life works perfectly for general working people. It can free up your time and decrease your budget in doing anything. Once this mindset is implemented, you realize you get more things done when you do the opposite from the crowd. You can easily rent a cheaper vacation home, going to grocery shops without waiting in line, and enjoy that sunrise in your favorite vacation place more peacefully. So, next time, when you see a flock of sheep going in your direction while you are walking, you might better off turn around and go the other way.
+
+### References
+- [Off-peak season travel: Save money and avoid crowds \| CNN Travel](https://www.cnn.com/travel/article/off-season-travel-avoid-crowds/index.html)
+- [Make life awesome by living off peak](https://thinksaveretire.com/make-life-awesome-by-living-off-peak/)
+- [A Peak Life is Lived Off-Peak](https://www.mrmoneymustache.com/2013/04/07/a-peak-life-is-lived-off-peak/)
