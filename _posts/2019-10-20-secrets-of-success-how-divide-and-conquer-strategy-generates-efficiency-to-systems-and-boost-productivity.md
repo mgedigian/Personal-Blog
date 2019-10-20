@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Secrets of Success - How Divide and Conquer Strategy Generates efficiency to Systems and Boosts Productivity
-date: 2019-10-20 13:36
+date: 2019-10-20 14:31
 summary: With Divide and Conquer, you are able to tackle big problems in fast pace environment 
 categories: productivity optimization life-lesson
 tags: productivity optimization
