@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Build a Complex Dynamic Input Form with React
-date: 2019-10-20 00:32
+date: 2019-10-20 14:24
 summary: Building form has never been complicated than before...
 categories: react frontend software-development tech
 tags: software-development front-end tech
