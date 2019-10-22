@@ -38,7 +38,7 @@ Since I want to minimize the amount of fetch call to the server, the only time I
 Each time the client chooses a user from the admin's input selection, that user is deleted from the pool. This way, I can mitigate duplication in both the select input field for admin and user without corrupting the state of the application. 
 
 ## Order of Attack
-I usually start by drawing the diagram of components, either on a paper or with any mock wireframe technology that you want to use. Then, I identify the dummy (link on how to identify dummy and smart from dan Abremov) and intelligent component.
+I usually start by drawing the diagram of components, either on a paper or with any mock wireframe technology that you want to use. Then, I identify the <a href="https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0" target="_blank">dummy and intelligent component</a>.
 
 I will start from the most straightforward presentational component and work backward to the container component.
 
