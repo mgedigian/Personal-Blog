@@ -74,6 +74,14 @@ task :preview do
   system "bundle exec jekyll serve --watch --drafts"
 end
 
+# usage: rake view
+desc 'veiw the post that is moved to draft but not yet deployed'
+task :view do
+  puts "## Generating site"
+  puts "## Stop with ^C ( <CTRL>+C )"
+  system "bundle exec jekyll serve --watch"
+end
+
 # usage: rake undraft['my-file.md']
 desc 'publish a draft post with "rake undraft[\'draft-file.md\']"'
 task :undraft, :file do |t, args|
