@@ -168,7 +168,7 @@ Since we extract `httpRequest`, we can create another trait that also extends `H
 
 You can specify the expected input and returns on the function. 
 
-<href="https://scalamock.org/" target="_blank">Scalamock</a> automatically mock the function for you. Therefore, no side effect or IO involved in running the `getEmployee`.
+<a href="https://scalamock.org/" target="_blank">Scalamock</a> automatically mock the function for you. Therefore, no side effect or IO involved in running the `getEmployee`.
 
 {% highlight java %}
 employeeRestClient.mock
