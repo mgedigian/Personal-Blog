@@ -46,7 +46,7 @@ trait HttpClient {
 
 Because we extracted the `singleRequest` as an abstract function, we can mock the function in the unit test with Scalamock.
 
-Order of Execution
+## Order of Execution
 We can write the regular implementation first; then we can refactor the function by extracting the `http().singleRequest`.
 
 We will use Circe to encode and decode JSON String, and Scalamock to mock the IO functions.
