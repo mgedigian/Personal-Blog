@@ -53,7 +53,7 @@ He or she will kneel on the knees - indicates he meant what he said. Then, he or
 
 When you combine what you did with dramatization, you are showing the others that you are serious about what you said. It showed you meant what you do.
 
-Usually, during a career fair, most students will stand in line waiting to talk to the recruiter or the engineer. When it was their time to talk, they usually will hand their resume to the person they are trying to impress and started to have their elevator pitch. Too much often, I realized that the elevator pitch is mostly useless because the person that you are trying to impress ended just looking at the paper while putting you as their background sound.
+Usually, during a career fair, most students will stand in line waiting to talk to the recruiter or the engineer. When it was their time to talk, they usually will hand their resume to the person they are trying to impress and started to have their elevator pitch. Too much often, I realized that the elevator pitch is mostly useless because the person that you are trying to impress ended just looking at the paper while putting you as their background noise.
 
 I reversed the process. I practice my elevator pitch while I was waiting in line. Instead of giving the person my resume after shaking his/her hands, I begin with the elevator pitch. During the elevator pitch, I dramatized my points of achievements, took out my resume, and pointed those achievements on my resume. Therefore, instead of letting them control the scene of asking you about each point in your resume, you control the flow of where you want them to see your story.
 
