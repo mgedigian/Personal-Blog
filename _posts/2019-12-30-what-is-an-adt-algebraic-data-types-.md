@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What is an ADT (Algebraic Data types)?
-date: 2019-12-29 20:57
+date: 2019-12-30 08:10
 summary: Chances are, you already did it when you build your application even you didn't know what it is
 categories: functional-programming
 tags: functional-programming tech scala software-development
