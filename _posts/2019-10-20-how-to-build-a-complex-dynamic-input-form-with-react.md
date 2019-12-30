@@ -193,7 +193,7 @@ This is the full code for ManageTeamPage.jsx and TeamForm.jsx:
 
 There you have it! A basic run through from my thought process on how to create a dynamic input form to React. I didn't talk about the validation part and will leave that to the next topic. If you have any questions, please feel free to comment on the section below. I hope this can help you tackle down your next project. 
 
-This is the full code for the project in <a href="https://github.com/edwardGunawan/Dynamic-Input-Tutorial" target="_blank">GitHub</a>.
+This is the full code for the project in <a href="https://github.com/edwardGunawan/Blog-Tutorial/tree/master/dynamic-input-tutorial" target="_blank">GitHub</a>.
 
 
 
