@@ -1,7 +1,7 @@
 ---
 layout: post
 title: WTF is a Type Class?
-date: 2019-12-29 20:57
+date: 2020-01-02 10:31
 summary: Learn how most author build their functional application with this technique
 categories: functional-programming 
 tags: functional-programming scala cats
