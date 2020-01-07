@@ -106,3 +106,6 @@ Implicit in Scala can be a double-edged sword, and for someone who is not used t
 - Type Class is like inheritance, but in an FP way, you get to create new behavior on the model without modifying the existing source code.
 - There are 3 steps to create a Type Class - the Interface, the Type-class instance, and the API
 - Be aware of interface syntax, and implicits in Scala because sometimes it can be hard to debug if you used it too often in a large codebase.
+
+
+Full Source Code on the example above is in <a href="https://github.com/edwardGunawan/Blog-Tutorial/tree/master/ScalaTutorial/whatIsTypeClass" target="_blank"> here</a>.
