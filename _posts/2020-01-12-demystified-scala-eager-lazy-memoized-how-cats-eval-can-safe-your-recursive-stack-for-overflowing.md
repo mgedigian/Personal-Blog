@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Demystified Scala Eager Lazy Memoized - How Cats Eval Can Safe Your Recursive Stack For Overflowing
-date: 2020-01-11 18:42
+date: 2020-01-12 20:53
 summary: How you are able to create recursive function without worrying about stack overflow
 categories: tech scala programming functional-programming
 tags: tech scala programming functional-programming
