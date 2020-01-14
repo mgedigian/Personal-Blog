@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What is the Difference Between Function Literal and Values in Scala
-date: 2020-01-11 19:10
+date: 2020-01-14 08:40
 summary: They are similar yet not the same. Therefore, becareful with some bugs you encounter when using them.
 categories: programming tech scala software-development
 tags: programming tech software-development scala
