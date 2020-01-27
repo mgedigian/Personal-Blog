@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Create a Logging Operation in a Multi-Threaded Environment
-date: 2020-01-26 19:44
+date: 2020-01-27 09:49
 summary: How to create a Monad that helps your logs to not resulted in interleaved messaged from different context.
 categories: scala cats programming functional-programming
 tags: scala cats programming functional-programming software-development tech
