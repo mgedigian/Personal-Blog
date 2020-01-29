@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Set up your Own Dependency Injection with Reader
-date: 2020-01-28 22:45
+date: 2020-01-29 09:48
 summary: Using Reader Monad you decouple your validation system
 categories: functional-programming scala cats monad tech
 tags: functional-programming scala cats monad tech
