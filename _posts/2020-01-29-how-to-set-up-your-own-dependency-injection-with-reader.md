@@ -47,7 +47,7 @@ val retrieveSound : Reader[Cat, String] = Reader {cat =>
   cat.sound
 }
 
-`"
+```
 
 When you instantiate the Reader type, you pass in a callback function of the configuration that you are receiving, in this case `Cat`, and retrieve one of the attributes inside, in this case, `cat.sound`.
 
@@ -107,7 +107,8 @@ Let's create a validation check function, given an id and an email, check whethe
 ```scala
 case class Repository(userDB:Map[Long, String], emailDB: Map[String, List[String]])
 
-`"
+```
+
 `userDB` maps id, 'Long`, to username,`String`. `emailDB` maps username to a list of email.
 
 First, we need to create a Reader type getUser that gets an id and retrieve the username.
