@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pure Function vs Referential Transparency
-date: 2020-01-29 22:59
+date: 2020-01-30 12:16
 summary: Referential Transparency might not equal to Pure Function
 categories: functional-programming tech programming scala
 tags: functional-programming tech programming scala
@@ -55,7 +55,7 @@ One other important thing about Pure function is that if a function is pure, it 
 
 ## What is Referential Transparency
 
-If you never touch Functional programming before, chances are you never heard of this term. OOP has been very popular in software development, and the 4 principles are widely discussed in software engineer interviews to test a candidate's understanding of OOP. However, more and more application is built upon a functional paradigm, and Referential Transparency is like one of the principles of Functional Programming.
+If you never touch Functional programming before, chances are you never heard of this term. I never heard of Referential Transparency until I work on projects in Scala. OOP has been very popular in software development, and the 4 principles are widely discussed in software engineer interviews to test a candidate's understanding of OOP. However, more and more application is built upon a functional paradigm, and Referential Transparency is like one of the principles of Functional Programming.
 
 Referential transparency means you can replace the function with its value and get the same output. 
 
@@ -112,6 +112,6 @@ def method(x:Int) : Int = {
 
 This function is referentially transparent because you can change the underlying method with a print statement and x; and it yields the same result. `method(1)` will always equal to `method(1)`, and `method(42)` can be replaced as `print(42); 42`. However, this function is not pure because it has an IO, print statement.
 
-Main Takeaway
+## Main Takeaway
 - If a function is not referential transparency, be aware of some unexpected output from a function with the same input is being called multiple times. 
 - A pure function is more constraint than referential transparency.
