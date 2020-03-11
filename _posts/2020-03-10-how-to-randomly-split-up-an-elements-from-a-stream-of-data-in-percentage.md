@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How To Randomly Split Up An Elements From A Stream Of Data In Percentage
-date: 2020-03-09 22:01
+date: 2020-03-10 22:42
 summary: How to randomly split up element from a stream of data without knowing the total amount of it?
 categories: scala algorithm software-development programming tech
 tags: scala algorithm software-development programming tech
