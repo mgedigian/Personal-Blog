@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Construct an Immutable Queue
-date: 2020-03-09 22:08
+date: 2020-03-11 21:58
 summary: Constructing an Immutable queue with State Monad
 categories: scala functional-programming algorithm
 tags: scala functional-programming programming optimization monad
