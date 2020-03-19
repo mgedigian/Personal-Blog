@@ -15,7 +15,7 @@ One of the reasons to use Either type constructor is not to create any surprisin
 
 In this article, I want to share some useful Either characteristic that I think is beneficial to know about Functional programming.
 
-1. Either is a Monad
+## Either is a Monad
 
 In Scala 2.1.1 and earlier, many people didn't consider Either a Monad because it didn't have a map and flatMap methods.
 
@@ -52,7 +52,7 @@ for{
 It transformed Either from unbiased type to a right-biased.
 
 
-2. Either is right bias
+## Either is right bias
 
 To be a Monad type, you need to be able to apply a map or flatMap to the value. However, Either is categorized as the Sum Type in <a href="https://edward-huang.com/functional-programming/2019/12/30/what-is-an-adt-algebraic-data-types/" target="_blank">ADT</a>. That means it has two possible values, a right, and a left. Another similar Monad type to Either includes Future (Success, Failure), Option (Some, None).  These Monads hold two values, usually a happy and sad scenario.
 
@@ -97,7 +97,7 @@ result match {
 
 If the value is not valid, then it defers it and returns in the result. However, if it is successful, then it executes the value inside the `map` function.
 
-3. Fold
+## Fold
 
 The last one is the operation of fold a list on an Either can be tricky. 
 
