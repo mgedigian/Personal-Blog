@@ -97,7 +97,7 @@ Let's make a CustomMonad class a Monad.
 case class CustomMonad[A](value:A)
 ```
 
-Before, you need to import Cats library in the build.sbt in order to impelement custom monad. 
+Before, you need to import Cats library in the build.sbt in order to implement custom monad. 
 ```scala
 // build.sbt
 lazy val customMonad = project.in(file("customMonad"))
