@@ -17,7 +17,7 @@ In this article, I want to share some useful Either characteristic that I think 
 
 ## Either is a Monad
 
-In Scala 2.1.1 and earlier, many people didn't consider Either a Monad because it didn't have a map and flatMap methods.
+In Scala 2.11 and earlier, many people didn't consider Either a Monad because it didn't have a map and flatMap methods.
 
 This makes it very hard to compose sequence using for comprehension.
 
@@ -33,7 +33,7 @@ for {
 
 ```
 
-However, in Scala 2.1.1, Either was redesigned to have Functory like features.
+However, in Scala 2.2, Either was redesigned to have Functory like features.
 
 The modern Either decides that the right side is the success case. Thus, it supports the map and flatMap.
 
@@ -87,7 +87,7 @@ Let's say you want to wire the sound of the `CarEngine` and add it to Toyota cla
 ```scala
 // TOYOTA class define somewhere in the class
 val engine = CarEngine("vroom")
-val result = validCarEngeinSound(engine).map{ case CarEngine(sound) => wireToToyota(sound) }
+val result = validCarEngineSound(engine).map{ case CarEngine(sound) => wireToToyota(sound) }
 
 result match {
   case Left(err) => println(err.getMessage)
